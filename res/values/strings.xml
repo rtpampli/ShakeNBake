@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShakeNBake2</string>
+    <string name="hello_world">ShakeNBake</string>
+    <string name="action_settings">Settings</string>
+    <string name="device1">Adrian</string>
+    <string name="device2">Rico</string>
+    <string name="choose">Who Are You</string>
+
+</resources>
